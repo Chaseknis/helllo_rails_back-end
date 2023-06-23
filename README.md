@@ -31,7 +31,7 @@
 - <a href="https://www.postgresql.org/">Postgresql</a>
 - <a href="https://rspec.info/">Rspec</a>
 
-## Link to the Back-end repository
+## Link to the Front-end repository
 
 [Hello_rails_front-end](https://github.com/Chaseknis/helllo_rails_front-end.git)
 

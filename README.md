@@ -92,7 +92,7 @@ Run the following command:
 
 ```
 and go to this link in your browser
-<http://localhost:3000/api/random>
+<http://localhost:3000/api/random_greeting>
 
 ## 👥 Authors <a name="authors"></a>
 

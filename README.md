@@ -37,7 +37,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- You can be able to access data in the api which are randomly displayed
+- You can be able to access data in the api which are randomly displayed using the front-end react app and connecting it to this app serving as a back end to store all the data in the Api
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

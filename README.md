@@ -3,12 +3,9 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [📹 video presentation](#video-presentation)
-  - [:camera: screenshots](#screenshots)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-    - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)

@@ -33,7 +33,7 @@
 
 ## Link to the Front-end repository
 
-[Hello_rails_front-end](https://github.com/Chaseknis/helllo_rails_front-end.git)
+[Hello_rails_front-end](https://github.com/Chaseknis/hello_react_front-end.git)
 
 ### Key Features <a name="key-features"></a>
 
@@ -116,7 +116,7 @@ and go to this link in your browser
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Chaseknis/hello_rails_back-end/issues).
+Feel free to check the [issues page](https://github.com/Chaseknis/hello_react_front-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
